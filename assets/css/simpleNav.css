@@ -1,0 +1,30 @@
+header>nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header>nav>ul{
+    display: flex;
+}
+header>nav>ul>li{
+    padding: 1.5rem;
+    position: relative;
+}
+header>nav>ul>li>ul{
+    display: none;
+    position: absolute;
+    top:1.5rem;
+    right: 1.5rem;
+}
+header>nav>ul>li:hover>ul{
+    display: block;
+}
+header>nav>ul>li>ul>li{
+    position: relative;
+}
+header>nav>ul>li>ul>li>ul{
+    display: none;
+    position: absolute;
+    top: 0;
+    right: 1.5rem;
+}

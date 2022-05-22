@@ -1,0 +1,41 @@
+[lang=fa-IR]{
+    direction:rtl!important;
+}
+[lang=en]{
+    direction:ltr!important;
+}
+.rtl{
+    direction: rtl!important;
+}
+.ltr{
+    direction: ltr!important;
+}
+img{
+    width: 100%;
+}
+ul{
+    list-style: none!important;
+}
+header{
+    font-size: 1rem;
+}
+h1,h2,h3,h4,h5,h6{
+    text-align: center !important;
+}
+p{
+    text-align: justify;
+}
+header ul li a,nav ul li a{
+    text-decoration: none!important;
+    color: inherit!important;
+}
+.bg-orange{
+    background: orange;
+}
+.bg-red{
+    background: red;
+}
+.text-left{
+    display: block;
+    text-align: left;
+}

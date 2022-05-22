@@ -1,0 +1,334 @@
+@import "all.min.css";
+@import "animate.min.css";
+@import "mdb.rtl.min.css";
+@import "simpleNav.css";
+@import "all.min.css";
+@import "swiper-bundle.min.css";
+@import "jquery-ui.min.css";
+@import "sweetalert2.min.css";
+@import "font.css"; 
+@import url("base.css");
+
+:root {
+    --blue: #354e6c;
+    --green:#4ff34f;
+    --dark: #000000;
+    --light: #ffffff;
+    --txtblue:#0a0064;
+    --lightred:#e23726;
+    --darkRed:#b12623;
+    --lightDark:#313332;
+    --blackGradiant : linear-gradient(180deg, #000000 0%, rgb(0 0 0) 20%, rgba(0,0,0,0) 100%);
+}
+.fullheight{
+    height: 100vh;
+}
+.btn-red{
+    background: var(--darkRed);
+    color: white;
+}
+
+nav>ul{
+    display: flex;
+}
+header{
+    color:white
+}
+#socialMenu{
+    background-image: url(../img/gray-shape-2.svg);
+    background-color: var(--lightDark);
+    background-position: left; /* Center the image */
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    padding: 0 2rem;
+}
+.custom-whitebg{
+    background: white;
+    border-top: 5px solid var(--darkRed);
+    width: 100%;
+    height: 100%;
+}
+#mainMenu{
+    background: white;
+    color: var(--blue);
+}
+#mainMenu ul{
+    margin: 0;
+}
+.nav-logo{
+    width: 6rem;
+}
+#mainMenu>ul>li.active{
+    border-bottom:3px solid var(--darkRed) ;
+    color: var(--darkRed);
+    font-weight: bold;
+}
+li.logo{
+    padding: 0.5rem 1.5rem;
+}
+.video{
+    position: relative;
+    /* max-height: 100vh; */
+}
+.video video{
+    max-height: 100vh;
+    width: 100%;
+    object-fit: fill;
+}
+.blackmesh{
+    background-image: url(../img/net-2.png);
+    background-repeat: repeat;
+    background-size: 66px;
+    background-color: #000000e6;
+    /* opacity: 0.7; */
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.sliderheading{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+}
+.sliderheading h1{
+    font-size: 4.9rem;
+    font-weight: bold;
+    color: white;
+}
+.sliderImg{
+    position: relative;
+
+}
+.slogan{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.slogantxt{
+    width: 24rem;
+    background-image: linear-gradient(180deg,var(--darkRed) 10%,var(--lightred) 83%);
+    color: white;
+    margin: 0 3rem;
+    padding: 1rem;
+}
+.slogantxt h2{
+    line-height:3.5rem;
+
+}
+.forth-hover{
+   position: relative;
+   min-height: 15.5rem;
+}
+.hover-on-slider{
+    position: absolute;
+    z-index: 1;
+    transform: translate(-50%,-2rem);
+    left: 50%;
+    cursor: pointer;
+}
+
+.father-base-white{
+    position: relative;
+    overflow: hidden;
+}
+.base-white{
+    background: white;
+    padding: 1rem;
+
+}
+.base-white h3,.base-white p,.base-white a{
+    color: var(--txtblue);
+}
+.base-green{
+    position: absolute;
+    transform: translate(0,20rem);
+    background: var(--darkRed);
+    width: 100%;
+    transition: 1s;
+    bottom: 0;
+    padding: 1rem;
+}
+.base-green h3{
+    color: white;
+}
+.base-green p{
+    color: white;
+}
+#fInfo{
+    min-height: 100vh;
+    padding-top: 6.5rem;
+}
+.father-base-white:hover .base-green{
+    transform: translate(0,0rem);
+    top: 0;
+}
+.right-green-border{
+    padding: 1rem;
+    font-style: italic;
+    color: gray;
+    border-right:3px solid var(--darkRed) ;
+}
+.imgcontainer{
+    position: relative;
+}
+.green-number-Counter{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 7rem;
+    height: 7rem;
+    padding: 1rem;
+    background: var(--darkRed);
+    color: white;
+    font-size: 1.8rem;
+    font-weight: bold;
+    text-align: center;
+}
+.ourServices{
+    background-image: url("../img/Super-Industrial-shed.jpg");
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: white;
+    display: flex;
+    justify-content: flex-start;
+    position: relative;
+    min-height: 100vh;
+    line-height: 2rem;
+}
+.services{
+    width: 33%;
+    position: absolute;
+    z-index: 1;
+}
+.custom-list-style{
+    list-style: url(../img/sqpurple-red.png) !important;
+}
+.blog{
+    padding-top: 2.5rem;
+}
+.img-container{
+    position: relative;
+}
+.svg-motioncontainer{
+    position: absolute;
+    top: 10rem;
+    width: 100%;
+}
+.green-expand{
+    display: flex;
+    align-items: center;
+    background: white;
+    border-radius: 100px;
+}
+.green-read-more{
+    background-image: linear-gradient(90deg,white 100%,var(--darkRed) 0%);
+}
+.circle-green{
+    background: var(--darkRed);
+    border-radius: 100%;
+    padding: 0.4rem 1rem;
+    font-size: 1.5rem;
+}
+.green-expand:hover{
+    background-image: linear-gradient(90deg,var(--darkRed) 100%,var(--darkRed) 100%);
+}
+.green-expand:hover .green-read-more{
+    background: var(--darkRed);
+}
+.green-expand:hover a{
+    color: white;
+}
+.pathColor{
+    fill:rgb(255, 255, 255);
+}
+#secPath{
+    visibility:hidden;
+}
+#therdPath{
+    visibility:hidden;
+}
+#FsecPath{
+    visibility:hidden;
+}
+#FtherdPath{
+    visibility:hidden;
+}
+#SsecPath{
+    visibility:hidden;
+}
+#StherdPath{
+    visibility:hidden;
+}
+.steps{
+    min-height: 100vh;
+    background-image: url("../img/iron-Buildin.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.insteps{
+    background:#313332f7 ;
+    color: white;
+    padding: 1rem;
+}
+.sayingAbout{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+.triangleTxt{
+    padding: 1.5rem;
+}
+footer{
+    background: lightgray;
+    padding: 1.5rem 2rem;
+}
+
+.triangleTxt,.triangleTxt-down,.triangleTxt-up{
+    position: relative;
+
+}
+.triangleTxt-down:after{
+    content: '';
+    display: block;
+    position: absolute;
+    left: 50%;
+    top: -38%;
+    width: 0;
+    height: 0;
+    border-style: solid;
+}
+
+.triangleTxt-down:after {
+    border-color: transparent transparent #fff transparent;
+    border-width: 2.3rem;
+}
+
+.triangleTxt-up:after{
+    content: '';
+    display: block;
+    position: absolute;
+    left: 50%;
+    bottom: -38%;
+    width: 0;
+    height: 0;
+    border-style: solid;
+}
+
+.triangleTxt-up:after {
+    border-color: #fff transparent transparent transparent;
+    border-width: 2.3rem;
+}
