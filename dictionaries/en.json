@@ -1,0 +1,147 @@
+{
+  "meta": {
+    "title": "Kidanex | Next Step. Next Level.",
+    "description": "Cardboard manufacturing, management consulting and wholesale trading."
+  },
+  "teamPage": {
+    "back": "Back to contact",
+    "call": "Call",
+    "emailLabel": "Email",
+    "items": {
+      "dastyar": {
+        "role": "Co-founder",
+        "bio": "More than twenty years of management experience across industrial, construction and commercial fields, with a master's degree in management from the University of Tehran.",
+        "points": [
+          "Master's degree in Management, University of Tehran",
+          "Management certificate, Tehran Technical Complex",
+          "Managed and launched a medical and industrial alcohol factory",
+          "Launched a beef cattle farm and provided management consulting for it",
+          "Launched and managed a road construction holding",
+          "Collaborated on excavation for the Karaj and Tehran metro",
+          "Managed and launched thousands of construction projects in Karaj, Tehran, Nowshahr and other cities",
+          "Managed and launched the permanent Karaj exhibition at Payam Airport",
+          "Launched, managed and branded a cardboard factory in Karaj",
+          "Launched and manages the Kidanex holding"
+        ]
+      },
+      "kiany": {
+        "role": "Co-founder",
+        "bio": "More than twenty years of management experience across industrial, construction and commercial fields, with a master's degree in management from the University of Tehran.",
+        "points": [
+          "Master's degree in Management, University of Tehran",
+          "Management certificate, Tehran Technical Complex",
+          "Managed and launched a medical and industrial alcohol factory",
+          "Launched a beef cattle farm and provided management consulting for it",
+          "Launched and managed a road construction holding",
+          "Collaborated on excavation for the Karaj and Tehran metro",
+          "Managed and launched thousands of construction projects in Karaj, Tehran, Nowshahr and other cities",
+          "Managed and launched the permanent Karaj exhibition at Payam Airport",
+          "Launched, managed and branded a cardboard factory in Karaj",
+          "Launched and manages the Kidanex holding"
+        ]
+      }
+    }
+  },
+  "people": {
+    "dastyar": "mr.dastyar",
+    "kiany": "mr.kiany"
+  },
+  "brand": {
+    "first": "Kida",
+    "second": "nex"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Our Services",
+    "shop": "Shop",
+    "about": "About Us",
+    "contact": "Contact Us"
+  },
+  "shop": {
+    "title": "Shop",
+    "intro": "Browse our products.",
+    "featuredTitle": "Our Products",
+    "viewAll": "View all products",
+    "all": "All",
+    "call": "Call us",
+    "currency": "Toman",
+    "details": "View product",
+    "back": "Back to shop",
+    "empty": "No products yet."
+  },
+  "servicesPage": {
+    "title": "Our Services",
+    "intro": "Packaging, management and trading solutions for growing businesses.",
+    "readMore": "Read More",
+    "back": "Back to services",
+    "contactCta": "Contact us for a quote",
+    "items": {
+      "cardboard": {
+        "title": "Creating and Designing Cardboards",
+        "summary": "Production of All Types of Three-Ply, Five-Ply, and Laminated Cardboard Boxes",
+        "text": "<h2>Carton Manufacturing Factory | Custom Packaging Solutions</h2><p>We specialize in the <strong>design and manufacturing of cardboard cartons and packaging boxes</strong> for businesses across various industries. From standard packaging boxes to custom-printed and laminated cartons, we provide packaging solutions tailored to product dimensions, weight, protection requirements, and transportation needs. Our production services include <strong>custom sizes, custom printing, three-ply cartons, five-ply cartons, and laminated packaging</strong> to meet a wide range of commercial and industrial requirements.</p><h2>Custom Cardboard Carton Manufacturing</h2><p>Every product requires packaging that fits its dimensions and intended use. We manufacture cardboard cartons in a variety of sizes and specifications, helping businesses find suitable packaging for storage, distribution, shipping, and retail presentation. Carton dimensions, board structure, and design can be selected according to product size, weight, stacking requirements, and handling conditions.</p><h2>Three-Ply and Five-Ply Corrugated Cartons</h2><p>We produce <strong>three-ply and five-ply corrugated cardboard cartons</strong> for different packaging applications. Three-ply cartons can be suitable for many everyday packaging and shipping needs, while five-ply cartons may be preferred for products requiring additional structural strength. The appropriate carton depends on the board quality, product weight, dimensions, storage conditions, and transportation requirements.</p><h2>Custom-Printed Cardboard Packaging</h2><p>Our <strong>custom carton printing services</strong> allow businesses to incorporate brand names, logos, product information, and other graphic elements into their packaging. Custom printing helps create consistent brand presentation and makes product identification easier throughout storage, distribution, and delivery. Printing specifications and artwork can be coordinated with the carton dimensions and packaging requirements.</p><h2>Laminated Carton Production</h2><p>We manufacture <strong>laminated cartons</strong> for products that require a more detailed printed finish and professional visual presentation. Laminated packaging can combine a printed surface with a corrugated cardboard structure, making it suitable for selected retail, commercial, and product packaging applications. The appropriate design depends on the intended use, artwork, product specifications, and required packaging performance.</p><h2>Bulk Carton Orders for Businesses</h2><p>We support bulk carton orders for manufacturers, distributors, retailers, e-commerce businesses, and other commercial customers. Production requirements are assessed according to order quantity, carton dimensions, board type, printing specifications, and delivery expectations. Providing accurate order details helps streamline quotation, production planning, and delivery coordination.</p><h2>What Determines the Price of Cardboard Cartons?</h2><p>The <strong>price of cardboard cartons</strong> depends on several factors, including dimensions, board quality, number of layers, raw materials, order quantity, printing requirements, and lamination. Custom designs and special production requirements may also affect the final cost. To receive an accurate quotation, provide the required carton dimensions, quantity, carton type, printing details, and preferred delivery schedule.</p><h2>Choosing the Right Carton Manufacturer</h2><p>Selecting a suitable carton manufacturer is important for maintaining consistent packaging quality and meeting business requirements. Factors to consider include manufacturing capabilities, material specifications, custom sizing options, printing services, order capacity, and delivery coordination. Choosing packaging that matches the product and its handling conditions can help businesses manage storage, shipping, and product presentation more effectively.</p><h2>Request a Quote for Custom Carton Manufacturing</h2><p>Whether you need standard cardboard boxes, three-ply cartons, five-ply cartons, custom-printed packaging, or laminated cartons, we can review your requirements and help identify a suitable packaging solution. Share your product dimensions, required quantity, carton specifications, and printing preferences to receive a quotation tailored to your order.</p><p><strong>Contact us today to discuss your packaging requirements and request a quote for bulk cardboard carton production.</strong></p>",
+        "points": [
+          "Custom sizes and printing",
+          "Single, double and triple wall options",
+          "Bulk production with fast delivery"
+        ]
+      },
+      "consulting": {
+        "title": "Management Consulting and Coaching",
+        "summary": "We help managers improve their leadership and build stronger teams.",
+        "text": "We help managers improve their leadership and build stronger teams.",
+        "points": [
+          "Leadership coaching",
+          "Team building and organization",
+          "Process and cost optimization"
+        ]
+      },
+      "trading": {
+        "title": "Wholesale Trading",
+        "summary": "We source and supply high-quality products in bulk at competitive prices.",
+        "text": "We source and supply high-quality products in bulk at competitive prices.",
+        "points": [
+          "Trusted supplier network",
+          "Quality inspection",
+          "Competitive bulk pricing"
+        ]
+      }
+    }
+  },
+  "home": {
+    "hero": {
+      "tagline": "Next Step. Next Level."
+    },
+    "services": {
+      "title": "Our Services",
+      "readMore": "Read More",
+      "items": [
+        {
+          "title": "Creating and Designing Cardboards",
+          "text": "We design and manufacture high-quality cardboard in all types and sizes."
+        },
+        {
+          "title": "Management Consulting and Coaching",
+          "text": "We help managers improve their leadership and build stronger teams."
+        },
+        {
+          "title": "Wholesale Trading",
+          "text": "We source and supply high-quality products in bulk at competitive prices."
+        }
+      ]
+    },
+    "about": {
+      "title": "About Kidanex",
+      "text": "<p>Kidanex is a <strong>diversified commercial holding company</strong> operating across multiple industries, including industrial manufacturing, marketing and business development, domestic and international trade, product sourcing, export, and management consulting. Our mission is to create sustainable business opportunities, strengthen professional partnerships, and deliver reliable products and services to businesses in domestic and international markets.</p><p>Our activities span a broad range of industries, from <strong>cardboard manufacturing and packaging</strong> to industrial marketing, agricultural commodities, cosmetics and personal care products, and a wide variety of other commercial goods. Through our network of manufacturers, suppliers, and business partners, we strive to connect businesses with quality products, new market opportunities, and efficient commercial solutions.</p><h3>1. Industrial Manufacturing and Cardboard Packaging</h3><p>Kidanex operates in the cardboard packaging industry and <strong>owns a cardboard manufacturing factory</strong>, producing packaging solutions that meet the needs of businesses across different sectors. We focus on product quality, reliable supply, and the ability to meet the diverse packaging requirements of our customers.</p><p>Our activities in this sector extend beyond manufacturing. Kidanex also provides <strong>marketing and market development services</strong> for some of the largest cardboard factories in the industry. These partnerships aim to expand customer bases, strengthen sales networks, increase market presence, and create new commercial opportunities for manufacturers.</p><p>By connecting manufacturing capabilities with market demand, we help producers reach more customers, strengthen their sales performance, and expand their businesses sustainably.</p><h3>2. Marketing, Market Development, and Business Growth</h3><p><strong>Marketing and market development</strong> are essential parts of Kidanex's business activities. We work with manufacturers, factories, and companies across various industries to identify new opportunities for product promotion, customer acquisition, and sales growth.</p><p>Our services in this area may include identifying target markets, connecting manufacturers with buyers, expanding customer networks, promoting products, and supporting the growth of commercial operations.</p><p>In addition to developing markets for our own products, Kidanex provides marketing services for partner companies. This approach helps businesses capitalize on commercial opportunities, strengthen professional relationships, reach new customers, and improve their market presence and sales performance.</p><h3>3. Agricultural Products Sourcing and Trading</h3><p><strong>Agricultural sourcing and trading</strong> represent an important part of Kidanex's commercial activities. We supply a diverse range of agricultural products to meet the needs of wholesalers, distributors, trading companies, and other buyers.</p><p>Our operations include identifying suitable supply sources, establishing relationships with producers and suppliers, assessing product quality, coordinating orders, and arranging suitable purchasing and trading terms.</p><p>We aim to build reliable connections between suppliers and buyers while providing access to quality products at competitive prices. We pay particular attention to product quality, purchasing conditions, sourcing costs, supplier reliability, and delivery coordination.</p><p>Through a flexible approach to agricultural trading, Kidanex seeks to establish long-term partnerships and expand commercial opportunities in domestic and international markets.</p><h3>4. Cosmetics and Personal Care Products Sourcing and Export</h3><p>Kidanex is involved in sourcing, trading, and exporting a wide range of <strong>cosmetics, skincare products, haircare products, personal hygiene goods</strong>, and other products related to beauty and personal care.</p><p>We work to identify suitable manufacturers and suppliers, source products that meet the needs of buyers and distributors, and facilitate commercial connections between suppliers and target markets.</p><p>Our activities in this sector focus on selecting products according to market demand, evaluating sourcing options, establishing relationships with business partners, and coordinating purchasing and export operations.</p><p>With an international outlook, Kidanex aims to expand cooperation with buyers, distributors, and companies in the cosmetics and personal care industry while creating new commercial opportunities in these markets.</p><h3>5. General Trading, Product Sourcing, and International Export</h3><p>Kidanex's trading activities are not limited to a single industry or a specific category of products. We engage in <strong>sourcing, purchasing, selling, and exporting</strong> a broad range of goods according to customer requirements and market opportunities.</p><p>Our areas of interest include agricultural products, consumer goods, cosmetics and personal care products, packaging materials and products, industrial supplies, and many other commercially traded goods. We aim to provide effective sourcing solutions and facilitate connections between buyers and suppliers.</p><p>Our operations may include identifying supply sources, evaluating purchasing options, negotiating commercial terms, assessing prices and quality, and coordinating activities related to domestic and international trade transactions.</p><p>Kidanex's approach to general trading is built on flexibility, an understanding of market needs, and the development of reliable business relationships. We continuously explore opportunities across different product categories to provide sourcing and trading solutions tailored to our customers' requirements.</p><h3>6. Management Consulting and Business Development Solutions</h3><p>Alongside our manufacturing and trading activities, Kidanex provides <strong>management consulting and business improvement services</strong>. We aim to help organizations identify management challenges, improve business processes, use resources more effectively, and establish the foundations for sustainable growth and development.</p><p>Our consulting services may focus on strategic planning, operational process optimization, cost reduction, organizational and operational improvements, market development, and increased productivity.</p><p>We believe sustainable business growth involves more than increasing sales. Effective resource management, informed decision-making, market awareness, and efficient business processes are equally important to long-term success.</p><p>By combining commercial insight with an understanding of business operations, Kidanex strives to provide solutions tailored to each organization's circumstances and support the development of a strong foundation for business expansion and long-term success.</p><h3>Our Commitment</h3><p>At Kidanex, we believe that <strong>trust, quality, transparency, and mutual value</strong> are the foundations of successful business partnerships.</p><p>Across all our areas of activity, from cardboard manufacturing and industrial marketing to agricultural sourcing, cosmetics exports, general trading, and management consulting, we strive to provide reliable solutions tailored to our customers' needs.</p><p>Our diversified activities, relationships with manufacturers and suppliers, and broad perspective on commercial opportunities enable us to address different business requirements and develop new partnerships and opportunities for collaboration.</p><p>We are committed to building long-term business relationships, expanding access to new markets, simplifying product sourcing, and contributing to the sustainable growth of our commercial partners.</p><p><strong>Kidanex — Connecting Industries, Products, and Markets.</strong></p>"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "email": "Email"
+    }
+  },
+  "footer": {
+    "tagline": "Building partnerships, delivering value, and driving business growth.",
+    "contactTitle": "Contact Information",
+    "rights": "© 2026 Kidanex. All rights reserved. Designed by saman balahang"
+  }
+}

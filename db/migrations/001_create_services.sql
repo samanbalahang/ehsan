@@ -1,0 +1,19 @@
+CREATE TABLE services (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  slug VARCHAR(100) NOT NULL UNIQUE,
+  image VARCHAR(255) NOT NULL,
+  sort_order INT NOT NULL DEFAULT 0,
+  published TINYINT(1) NOT NULL DEFAULT 1,
+  updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
+) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+
+CREATE TABLE service_translations (
+  service_id INT NOT NULL,
+  lang CHAR(2) NOT NULL,
+  title VARCHAR(255) NOT NULL,
+  summary TEXT NOT NULL,
+  body MEDIUMTEXT NOT NULL,
+  points JSON NOT NULL,
+  PRIMARY KEY (service_id, lang),
+  FOREIGN KEY (service_id) REFERENCES services(id) ON DELETE CASCADE
+) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
